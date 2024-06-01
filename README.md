@@ -1,5 +1,5 @@
-# Titanic_Project
-Project 2: Titanic Disaster Survival Assessment
+# Titanic Disaster Survival 
+Project 2: Titanic Disaster Survival 
 
 Overview:
 This project aims to assess the survival rate of passengers in the Titanic disaster using machine learning techniques. The dataset includes information such as age, gender, ticket class, cabin, and whether the passenger survived or not.
